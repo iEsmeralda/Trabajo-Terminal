@@ -1,0 +1,2 @@
+Para acceder a la base de datos necesita entrar al siguiente link: https://drive.google.com/drive/folders/1rx4j9KAM2fFCCj8baNEVcs0DJPJtlRDI?usp=sharing
+Además para el script llamado "analisisMicroexpresiones" dentro la carpeta BD necesita descargar el archivo llamado "shape_predictor_68_face_landmarks.dat", disponible en: https://huggingface.co/iEsmeralda/shape_predictor_68_face_landmarks/resolve/main/shape_predictor_68_face_landmarks.dat
